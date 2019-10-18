@@ -1,0 +1,5 @@
+- Fun way to use interfaces! Inheritance should be used, with object specific logic and properties within each type
+- Each child or adapter class can wrap or abstract out the external service
+- Define interfaces for the common methods in the child classes
+- We can now use dependency injection on the correct interfaces to make the code easier to test
+- Tests can be divided into unit and integration tests
